@@ -1,5 +1,3 @@
-# Salam 👋
-
 # 🙏 Welcome to My GitHub Profile  
 I am **MD Touhedul Islam**, a passionate **Software Quality Assurance (SQA) Engineer** from **Bangladesh**.  
 With 1+ year of solid hands-on experience in both **Manual & Automation Testing**, I ensure software quality through structured testing processes, modern automation frameworks, and continuous learning.
