@@ -68,6 +68,13 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=touhid1&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=touhid1&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
 ## 🤝 Let's Connect  
 💼 **LinkedIn:** *[(https://www.linkedin.com/in/touhidul066/)*  
 📧 **Email:** touhidulislam066@gmail.com  
