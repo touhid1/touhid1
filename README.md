@@ -76,9 +76,12 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 ## 🏆 GitHub Trophies
 
 ## 🤝 Let's Connect  
-💼 **LinkedIn:** *[(https://www.linkedin.com/in/touhidul066/)*  
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/touhidul066/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
+    <a href="https://touhedul-qa.netlify.app" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
+  </p>
 📧 **Email:** touhidulislam066@gmail.com  
-🌐 **Portfolio:** *(https://touhedul-qa.netlify.app)*
 
 ---
 
