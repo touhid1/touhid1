@@ -72,10 +72,10 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 *(You can insert Active GitHub Stats Badges here if needed)*
 
 ```
-Add your GitHub stats badges like:
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid1&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid1&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1)
 
 ```
