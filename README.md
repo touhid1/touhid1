@@ -74,9 +74,8 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 ```
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1&theme=radical)
 
 ```
 
