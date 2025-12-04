@@ -1,4 +1,4 @@
-# 👋 Peace! Those who are founded on guidance.
+# Salam 👋
 
 # 🙏 Welcome to My GitHub Profile  
 I am **MD Touhedul Islam**, a passionate **Software Quality Assurance (SQA) Engineer** from **Bangladesh**.  
@@ -81,7 +81,6 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
     <a href="https://www.linkedin.com/in/touhidul066/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
     <a href="https://touhedul-qa.netlify.app" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
   </p>
-📧 **Email:** touhidulislam066@gmail.com  
 
 ---
 
