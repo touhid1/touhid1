@@ -1,31 +1,89 @@
-# Peace! Those who are founded on guidance. 
-<h2 >I am MD Touhedul Islam. You're welcome!!!</h2>
+# 👋 Peace! Those who are founded on guidance.
 
-<h4>I am a passionate Software Quality Assurance Engineer from Bangladesh. In the last 01 year, I have been practicing as a Software Test Engineer. I use Testrail for writing test cases, jira or Trello tool for project management purposes, java, selenium, maven, TestNG, page object model, data-driven, page factory, and generate allure reports for both mobile and web automation and extent reports, use Postman for API testing and apache Jmeter for performance testing. 
+# 🙏 Welcome to My GitHub Profile  
+I am **MD Touhedul Islam**, a passionate **Software Quality Assurance (SQA) Engineer** from **Bangladesh**.  
+With 1+ year of solid hands-on experience in both **Manual & Automation Testing**, I ensure software quality through structured testing processes, modern automation frameworks, and continuous learning.
 
-</h4>
+---
 
-[Profile Summary](https://profile-summary-for-github.com/user/touhid1)
+## 🚀 About Me  
+- 🔍 Experienced in **Manual, Automation, API & Performance Testing**  
+- 🧪 Skilled in building **Selenium + TestNG + Maven** automation frameworks  
+- 📱 Mobile automation with **Appium**  
+- 📊 API testing with **Postman**  
+- ⚡ Performance testing with **Apache JMeter**  
+- 📝 Strong understanding of **SDLC**, **STLC**, and **Agile methodology**  
+- 🔧 Love automating things and making testing faster, smarter & cleaner
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=touhid1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=touhid1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 🧩 Skills & Expertise
 
+### ✔️ **Manual Testing**
+- Requirement Analysis  
+- Test Planning  
+- Test Case Writing & Reviewing  
+- Test Execution  
+- Defect Identification & Reporting  
+- Test Reporting (Allure, Extent Reports)  
+- Root Cause Analysis  
 
+---
 
-<li>
-📝Manual Testing--> Requirement Analysis, Designing, Test Planning, Writing & Reviewing Test Case, Test Execution & Evaluation, Creating Test Report, Root cause analysis & Bug reporting using test management tools</li>
-<li>👩‍💻API Testing Tool---> Postman</li>
-<li>👩‍💻Performance Testing Tool-->JMeter</li>
-<li>👩‍💻Web Automation Tools-->Selenium, TestNG</li>
-<li>👩‍💻MobileApp Automation Tools--> Appium</li>
-<li>👩‍💻Agile Methodology and Project Management Tool-->Jira</li>
-<li>👩‍💻Security Testing Tool-->Nmap</li>
-<li>👩‍💻Web Development Technologies</li>
-<li>👩‍💻Prgramming Language--> Java,JavaScript</li>
-<li>👩‍💻Database--> MySQL, MongoDB
-</li>
+### ✔️ **Automation Testing**
+**Web Automation:** Selenium, TestNG, Maven  
+- Page Object Model (POM)  
+- Page Factory  
+- Data-Driven Framework  
+- Allure & Extent Reports  
 
+**Mobile Automation:** Appium
 
+---
+
+### ✔️ **API Testing**
+- Postman  
+- Writing automated Postman test scripts  
+
+---
+
+### ✔️ **Performance Testing**
+- Apache JMeter  
+
+---
+
+### ✔️ **Project & Test Management Tools**
+- Jira  
+- Trello  
+- TestRail  
+
+---
+
+### ✔️ **Programming & Development**
+- Java  
+- JavaScript  
+- MySQL  
+- MongoDB  
+- Basic Web Development  
+
+---
+
+## 📊 GitHub Stats  
+*(You can insert Active GitHub Stats Badges here if needed)*
+
+```
+Add your GitHub stats badges like:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName)
+```
+
+---
+
+## 🤝 Let's Connect  
+💼 **LinkedIn:** *Add Your Link*  
+📧 **Email:** touhidulislam066@gmail.com  
+🌐 **Portfolio:** *Add When Ready*
+
+---
+
+### ⭐ Feel free to explore my repositories and drop a star if you like my work!
