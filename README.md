@@ -73,16 +73,16 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 
 ```
 Add your GitHub stats badges like:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid1&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1)
 ```
 
 ---
 
 ## 🤝 Let's Connect  
-💼 **LinkedIn:** *Add Your Link*  
+💼 **LinkedIn:** *[Add Your Link](https://www.linkedin.com/in/touhidul066/)*  
 📧 **Email:** touhidulislam066@gmail.com  
-🌐 **Portfolio:** *Add When Ready*
+🌐 **Portfolio:** *[Add When Ready](https://touhedul-qa.netlify.app)*
 
 ---
 
