@@ -80,9 +80,9 @@ Add your GitHub stats badges like:
 ---
 
 ## 🤝 Let's Connect  
-💼 **LinkedIn:** *[Add Your Link](https://www.linkedin.com/in/touhidul066/)*  
+💼 **LinkedIn:** *[(https://www.linkedin.com/in/touhidul066/)*  
 📧 **Email:** touhidulislam066@gmail.com  
-🌐 **Portfolio:** *[Add When Ready](https://touhedul-qa.netlify.app)*
+🌐 **Portfolio:** *(https://touhedul-qa.netlify.app)*
 
 ---
 
