@@ -6,9 +6,9 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 
 ## 🚀 About Me  
 - 🔍 Experienced in **Manual, Automation, API & Performance Testing**  
-- 🧪 Skilled in building **Selenium + TestNG + Maven** automation frameworks  
+- 🧪 Skilled in building **Selenium + TestNG + Maven + Playwight + Cypress + Cucumber** automation frameworks  
 - 📱 Mobile automation with **Appium**  
-- 📊 API testing with **Postman**  
+- 📊 API testing with **Postman**
 - ⚡ Performance testing with **Apache JMeter**  
 - 📝 Strong understanding of **SDLC**, **STLC**, and **Agile methodology**  
 - 🔧 Love automating things and making testing faster, smarter & cleaner
@@ -53,7 +53,9 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 ### ✔️ **Project & Test Management Tools**
 - Jira  
 - Trello  
-- TestRail  
+- TestRail
+- Linear
+- Clickup
 
 ---
 
