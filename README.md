@@ -73,15 +73,6 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 ![](https://github-readme-streak-stats.herokuapp.com/?user=touhid1&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
 
-## 🤝 Let's Connect  
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/touhidul066/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
-    <a href="https://touhedul-qa.netlify.app" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
-  </p>
-
----
 
 ### ⭐ Feel free to explore my repositories and drop a star if you like my work!
