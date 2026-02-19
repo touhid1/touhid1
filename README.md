@@ -64,7 +64,7 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 - JavaScript  
 - MySQL  
 - MongoDB  
-- Basic Web Development  
+- Web Development  
 
 ---
 
