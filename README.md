@@ -12,7 +12,7 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 - ⚡ Performance testing with **Apache JMeter**  
 - 📝 Strong understanding of **SDLC**, **STLC**, and **Agile methodology**  
 - 🔧 Love automating things and making testing faster, smarter & cleaner
-
+ 
 ---
 
 ## 🧩 Skills & Expertise
@@ -77,3 +77,4 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 
 
 ### ⭐ Feel free to explore my repositories and drop a star if you like my work!
+
