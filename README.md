@@ -35,7 +35,8 @@ With 1+ year of solid hands-on experience in both **Manual & Automation Testing*
 - Data-Driven Framework  
 - Allure & Extent Reports  
 
-**Mobile Automation:** Appium
+**Mobile Automation:** 
+- Appium
 
 ---
 
