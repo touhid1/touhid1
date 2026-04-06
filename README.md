@@ -2,7 +2,7 @@
 I am **MD Touhedul Islam**, SQA Engineer | Manual & Automation Testing
 Passionate about real-world bug analysis, system thinking & QA strategy
 Focused on testing distributed systems, APIs & production-level scenarios  
-With 1+ year of solid hands-on experience in both **Manual & Automation Testing**, I ensure software quality through structured testing processes, modern automation frameworks, and continuous learning.
+With 1+ years of solid hands-on experience in both manual and automation testing, I ensure software quality through structured testing processes, modern automation frameworks, and continuous learning.
 
 ---
 
